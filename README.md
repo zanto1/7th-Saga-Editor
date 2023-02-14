@@ -1,5 +1,5 @@
 # 7th-Saga-Editor
-This is an editor for the SNES game 7th Saga made in C#
+This is an editor for the SNES game 7th Saga made for Windows in C# 
 
 ## What it does
 It allows you to edit character stats, starting equipment, spells learned, item and equipment data, spell data, monster data, item drop sets and the experience table.
